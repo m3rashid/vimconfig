@@ -1,0 +1,6 @@
+!colors/astronvim.lua
+colors/*
+docs
+ftplugin
+spell
+.luarc.json
