@@ -1,6 +1,7 @@
 ### VimConfig
 
 This neovim setup is configured with AstroNvim
+
 Required Version: neovim >= 8.1
 
 ```sh
