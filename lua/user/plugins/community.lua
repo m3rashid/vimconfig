@@ -9,6 +9,8 @@ return {
   -- { import = "astrocommunity.colorscheme.kanagawa-nvim", enabled = true },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.typescript-deno" },
+  { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.angular" },
   { import = "astrocommunity.pack.astro" },
