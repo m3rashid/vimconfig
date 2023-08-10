@@ -6,7 +6,6 @@ colors
 docs
 ftplugin
 ginit.vim
-lua/user
 neoconf.json
 plugin
 queries
@@ -43,7 +42,6 @@ tags
 
 # VS Code
 .history
-.vscode
 
 # JetBrains
 .idea
